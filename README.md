@@ -30,4 +30,5 @@ A Graveyard scene created in Unity.
 ![](https://i.imgur.com/vPeIsOg.jpeg)
 
 ## Video
-_Soon_
+
+[Demo video](https://youtu.be/XjAeMM_wYn0)
